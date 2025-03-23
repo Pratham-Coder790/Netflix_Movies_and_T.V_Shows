@@ -21,11 +21,5 @@ The dashboard is built using data sourced from a Netflix dataset available on Ka
 ### Prerequisites
 
 - Power BI Desktop: Download Power BI Desktop
-- Dataset: The dataset is included in the repository under the Data folder.
-
-### Here is the drive link of the video of dashboard:
-https://drive.google.com/file/d/1gJRmY7HfVCxfYuqE-cWoY2p9WWfqJhyy/view?usp=sharing
-
-## Author
-ASHISH HALIJOL
+- Dataset: The dataset is included in the repository under the Data folder
 
